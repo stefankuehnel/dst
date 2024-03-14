@@ -13,7 +13,7 @@ You'll need [Go](https://go.dev) installed.
 First of all, you need to install `dst` locally:
 
 ```shell
-$ go install stefanco.de/dst
+$ go install stefanco.de/dst/cmd/...@latest
 ```
 
 This will install `dst` into `$GOROOT/bin`.

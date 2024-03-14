@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"stefanco.de/dst/dst"
+	"stefanco.de/dst"
 )
 
 var currentYear = time.Now().Year()
